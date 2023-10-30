@@ -6,6 +6,7 @@ public class Manu {
 		// TODO Auto-generated method stub
         System.out.println("Welcome to GPREC");
         System.out.println("Welcome to CST");
+		System.out.println("Havee a nice day");
 	}
 
 }
